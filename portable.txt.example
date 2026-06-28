@@ -1,8 +1,0 @@
-Этот файл включает portable-режим GLLauncher.
-Когда этот файл лежит рядом с GLLauncher.exe:
-  - Настройки хранятся в data/ рядом с exe
-  - Список загрузки в data/steamlister_state.json
-  - Кэш обложек в cache/covers/
-  - AppList по умолчанию — AppList/ рядом с exe
-
-Удалите этот файл для обычного режима (%APPDATA%\SteamLister\).
