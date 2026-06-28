@@ -1,6 +1,6 @@
 {
-    "version": "3.2.0",
+    "version": "3.3.0",
     "download_url": "https://github.com/TrueLessFalse/GLLauncher/releases/download/3.2.0/SteamLister.exe",
     "release_notes": "Добавлены настройки \n- Обновил функцию автообновления",
-    "min_app_version": "3.2.0"
+    "min_app_version": "3.3.0"
 }
