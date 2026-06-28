@@ -1,6 +1,6 @@
 {
-    "version": "1.0",
+    "version": "5.0",
     "download_url": "https://github.com/TrueLessFalse/GLLauncher/releases/download/Main/SteamLister.exe",
     "release_notes": "Первая версия с автообновлением.\n- Проверка обновлений GreenLuma через cs.rin.ru\n- Автонастройка DLLInjector.ini\n- Автозакрытие Steam\n- Контекстные меню\n- Обучение",
-    "min_app_version": "1.0"
+    "min_app_version": "5.0"
 }
